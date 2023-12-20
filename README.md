@@ -1,2 +1,2 @@
-# Portfolio_Micha-_G-adkowski
+# Portfolio_Michal_Gladkowski
 My Tester's Portfolio
