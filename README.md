@@ -1,6 +1,8 @@
 # Portfolio_Michal_Gladkowski
 My Tester's Portfolio
 # About me
+My name is Michał Gładkowski. I am a motor vehicle technician by education and a bug hunter by passion. I am interested in software testing, video games,  gym training and automotive. So far, I have been professionally involved in testing video games, the list of productions in which I took part is below. My future goal is to develop as a software tester and start automating testing. 
+On this website I would like to share the experience I have gained during my learnings, course, work and research.
 # Tools
 # Projects
 I invite you to familiarize yourself with the projects in which I participated. I divided the section into commercial and non-commercial projects.
@@ -20,7 +22,26 @@ Commercial projects are those that I participated in while working at [*Lionbrid
 * Non-commercial projects
 # Tech Skills
 # Certificates
+* ISTQB(http://scr.istqb.org/) - No. XXXXXX
+* Tester Oprogramowania(https://drive.google.com/file/d/1jJ7sBqy8BHa2JDZEEHnIwO8D6THrKTt7/view?usp=sharing)
 # Courses
+* Tester Oprogramowania - 116-hour course conducted by the Software Development Academy
 # Podcasts
+* Tu się Testuje(https://www.youtube.com/@TuSieTestuje)
+* Rafał Podraza(https://www.youtube.com/@TechnikaProgramowania)
+* TestITka(https://www.youtube.com/@TestITka)
+* RCKBRS(https://www.youtube.com/playlist?list=PLhSBw7mO1U1c-5T1ewqp0r8B8bHYlqG4q)
 # Books
-# Groups I follow
+* Radosław Smilgin - Zawód tester
+* Adam Roman - Testowanie i jakość oprogramowania
+# Groups / People I follow
+* Tester oprogramowania - wsparcie na starcie
+* Testowanie oprogramowania - Materiały | Porady
+* Praca / Staż w IT
+* testi.it.ka(https://www.instagram.com/test.it.ka/)
+* tester.oprogramowania(https://www.instagram.com/tester.oprogramowania/)
+* latarnik.it(https://www.instagram.com/latarnik.it/)
+* tusietestuje(https://www.instagram.com/tusietestuje/)
+* mateuszemsi(https://www.instagram.com/mateuszemsi/)
+* testerka_oprogramowania(https://www.instagram.com/testerka_oprogramowania/)
+* testerautomatyzujacy(https://www.instagram.com/testerautomatyzujacy/)
