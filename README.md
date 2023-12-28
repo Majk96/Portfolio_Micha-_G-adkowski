@@ -22,15 +22,15 @@ Commercial projects are those that I participated in while working at [*Lionbrid
 * Non-commercial projects
 # Tech Skills
 # Certificates
-* ISTQB(http://scr.istqb.org/) - No. XXXXXX
-* Tester Oprogramowania(https://drive.google.com/file/d/1jJ7sBqy8BHa2JDZEEHnIwO8D6THrKTt7/view?usp=sharing)
+* [*ISTQB*](http://scr.istqb.org/) - No. XXXXXX
+* [*Tester Oprogramowania*](https://drive.google.com/file/d/1jJ7sBqy8BHa2JDZEEHnIwO8D6THrKTt7/view?usp=sharing)
 # Courses
 * Tester Oprogramowania - 116-hour course conducted by the Software Development Academy
 # Podcasts
-* Tu się Testuje(https://www.youtube.com/@TuSieTestuje)
-* Rafał Podraza(https://www.youtube.com/@TechnikaProgramowania)
-* TestITka(https://www.youtube.com/@TestITka)
-* RCKBRS(https://www.youtube.com/playlist?list=PLhSBw7mO1U1c-5T1ewqp0r8B8bHYlqG4q)
+* [*Tu się Testuje*](https://www.youtube.com/@TuSieTestuje)
+* [*Rafał Podraza*](https://www.youtube.com/@TechnikaProgramowania)
+* [*TestITka*](https://www.youtube.com/@TestITka)
+* [*RCKBRS*](https://www.youtube.com/playlist?list=PLhSBw7mO1U1c-5T1ewqp0r8B8bHYlqG4q)
 # Books
 * Radosław Smilgin - Zawód tester
 * Adam Roman - Testowanie i jakość oprogramowania
@@ -38,10 +38,10 @@ Commercial projects are those that I participated in while working at [*Lionbrid
 * Tester oprogramowania - wsparcie na starcie
 * Testowanie oprogramowania - Materiały | Porady
 * Praca / Staż w IT
-* testi.it.ka(https://www.instagram.com/test.it.ka/)
-* tester.oprogramowania(https://www.instagram.com/tester.oprogramowania/)
-* latarnik.it(https://www.instagram.com/latarnik.it/)
-* tusietestuje(https://www.instagram.com/tusietestuje/)
-* mateuszemsi(https://www.instagram.com/mateuszemsi/)
-* testerka_oprogramowania(https://www.instagram.com/testerka_oprogramowania/)
-* testerautomatyzujacy(https://www.instagram.com/testerautomatyzujacy/)
+* [*testi.it.ka*](https://www.instagram.com/test.it.ka/)
+* [*tester.oprogramowania*](https://www.instagram.com/tester.oprogramowania/)
+* [*latarnik.it*](https://www.instagram.com/latarnik.it/)
+* [*tusietestuje*](https://www.instagram.com/tusietestuje/)
+* [*mateuszemsi*](https://www.instagram.com/mateuszemsi/)
+* [*testerka_oprogramowania*](https://www.instagram.com/testerka_oprogramowania/)
+* [*testerautomatyzujacy*](https://www.instagram.com/testerautomatyzujacy/)
