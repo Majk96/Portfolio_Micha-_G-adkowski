@@ -7,7 +7,7 @@ I invite you to familiarize yourself with the projects in which I participated. 
 Commercial projects are those that I participated in while working at [*Lionbridge*](https://games.lionbridge.com/), and non-commercial projects are those that I do after work to improve my skills.
 * Commercial projects
   * [*Weird West*](https://www.weirdwest.com/) - by WolfEye Studios.
-  * [*Wizzard With a Gun*](https://www.wizardwithagun.com/) - by Galvanic Games.
+  * [*Wizard With a Gun*](https://www.wizardwithagun.com/) - by Galvanic Games.
   * [*Inscryption*](https://www.inscryption.com/) - by Daniel Mullens Games. 
   * [*KarmaZoo*](https://www.devolverdigital.com/games/karmazoo) - by Pastagames.
   * [*Stick It To The Stickman*](https://www.stickittothestickman.com/) - By Free Lives | Coming 2024.
