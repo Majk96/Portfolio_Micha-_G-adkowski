@@ -38,7 +38,7 @@ Commercial projects are those that I participated in while working at [*Lionbrid
 * Tester oprogramowania - wsparcie na starcie
 * Testowanie oprogramowania - Materiały | Porady
 * Praca / Staż w IT
-* [*testi.it.ka*](https://www.instagram.com/test.it.ka/)
+* [*test.it.ka*](https://www.instagram.com/test.it.ka/)
 * [*tester.oprogramowania*](https://www.instagram.com/tester.oprogramowania/)
 * [*latarnik.it*](https://www.instagram.com/latarnik.it/)
 * [*tusietestuje*](https://www.instagram.com/tusietestuje/)
